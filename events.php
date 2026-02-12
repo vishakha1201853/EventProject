@@ -109,14 +109,8 @@
         </div>
       </div>
       
-      <div class="event-card">
-        <img src="corporate.jpg" alt="Corporate Event">
-        <div style="padding: 0 0 20px 0;">
-            <h3>Corporate Seminar</h3>
-            <p>Professional event planning for seminars, meetings, and conferences.</p>
-            <a href="book_event.php" class="btn primary">Book Now</a>
-        </div>
-      </div>
+      
+     
       
       <div class="event-card">
         <img src="festival.jpg" alt="Festival Event">
