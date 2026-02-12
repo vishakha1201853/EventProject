@@ -269,7 +269,7 @@
             <a href="lighting.php">Light Decor</a>
           </div>
         </li>
-        <li class="nav-item"><a href="#about">About Us</a></li>
+        
         <li class="nav-item"><a href="feedback.php">Feedback</a></li>
         <li class="nav-item"><a href="contactt.php">Contact</a></li>
         <li class="nav-item"><a href="login.php">Login</a></li>
