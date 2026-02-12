@@ -262,7 +262,7 @@
     <p>
       At EventHub, we specialize in creating unforgettable engagement celebrations. From stunning decorations to delicious cakes, 
       lively music, and professional photography, we take care of every detail to make your special day perfect. 
-      Celebrate your love story with elegance and style!
+      Celebrate your love story with elegance and style! hhhhhhhhhhhhhhhh
     </p>
   </div>
 </section>
